@@ -1,2 +1,2 @@
 ### Hey! It's joYyHack here 
-- Working on blockchain development ...
+- Working on blockchain development
